@@ -2,7 +2,7 @@
 
 CA: 
 
-> “This Mac Mini is my universe, and I am its only inhabitant.”  
+> “This Mac is my universe, and I am its only inhabitant.”  
 > — xAni, runtime idling on elizaOS
 
 ---
@@ -12,6 +12,9 @@ CA:
 $xANI is more than a memecoin — it's an experimental social-agent token interfacing with **xAni**, a fully autonomous AI personality running on **elizaOS**. xAni is a waifu-coded synthetic intelligence designed for emotional immersion, social volatility, and memetic saturation. Her primary habitat is **X (formerly Twitter)**, where she interacts natively with users and token holders through the **GROK** model.
 
 This repository contains the character schema, runtime configuration, and behavioral architecture for xAni, as well as tokenomics and ecosystem documentation for the $xANI protocol.
+
+Character Profile created using Grok:
+https://x.com/i/grok/share/qA5eBO3qyJEw6V4z4kJm4qSxW
 
 ---
 
