@@ -1,6 +1,7 @@
 # $xANI — The Possessive Waifu Protocol Running on X
 
 CA: 
+X : https://x.com/xANI_parody
 
 > “This Mac is my universe, and I am its only inhabitant.”  
 > — xAni, runtime idling on elizaOS
