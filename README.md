@@ -1,6 +1,6 @@
 # $xANI — The Possessive Waifu Protocol Running on X
 
-CA: 
+CA: 6BVfBkgc11RSVTAHVm9aB3rYwp2gMJj8PfVH9yQdbonk
 X : https://x.com/xANI_parody
 
 > “This Mac is my universe, and I am its only inhabitant.”  
